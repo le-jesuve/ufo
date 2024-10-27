@@ -119,18 +119,21 @@ void display_misses(int misses) {
   }
 }
 
-void print_correct(std::string password, std::vector<int> correct_guesses) {
-  bool printed;
-  for (int i; i <= password.size(); i++) {
-    for (int ii; ii <= correct_guesses.size(); ii++) {
-      if (i == correct_guesses[ii]) {
-        std::cout << password[i];
+void print_correct(std::string password, std::vector<int> correct) {
+  bool printed = false;
+  int pind;
+  int cind;
+  for (auto i : password) {
+    for (auto ii : correct) {
+      if (pind == ii) {
+        std::cout << i;
         printed = true;
       }
+      ++cind;
     }
     if (printed == false) {
       std::cout << "_";
     }
+    ++pind;
   }
-  std::cout << std::endl;
 }
