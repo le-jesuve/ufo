@@ -120,13 +120,14 @@ void display_misses(int misses) {
 }
 
 void print_correct(std::string password, std::vector<int> correct) {
-//  bool printed = false;
-  int pind;
-  int cind;
-  for (auto i : password) {
-   bool printed = false;
-    for (auto ii : correct) {
+  //  bool printed = false;
+  int pind = 0;
+  int cind = 0;
+  for (char i : password) {
+    bool printed = false;
+    for (int ii : correct) {
       if (pind == ii) {
+
         std::cout << i;
         printed = true;
       }
@@ -137,5 +138,4 @@ void print_correct(std::string password, std::vector<int> correct) {
     }
     ++pind;
   }
-
 }
