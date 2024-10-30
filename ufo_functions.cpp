@@ -14,7 +14,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /     \\        (  Send help! ) \n";
+    std::cout << "              /     \\        (  AAARGH!!   ) \n";
     std::cout << "             /   0   \\      / `-----------'  \n";
     std::cout << "            /  --|--  \\    /                 \n";
     std::cout << "           /     |     \\                     \n";
@@ -30,7 +30,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /  0  \\        (  Send help! ) \n";
+    std::cout << "              /  0  \\        (  HELLLP!    ) \n";
     std::cout << "             / --|-- \\      / `-----------'  \n";
     std::cout << "            /    |    \\    /                 \n";
     std::cout << "           /    / \\    \\                    \n";
@@ -46,7 +46,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /--|--\\        (  Send help! ) \n";
+    std::cout << "              /--|--\\        (  NOONONOOO! ) \n";
     std::cout << "             /   |   \\      / `-----------'  \n";
     std::cout << "            /   / \\   \\    /                \n";
     std::cout << "           /           \\                     \n";
@@ -62,7 +62,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /--|--\\        (  Send help! ) \n";
+    std::cout << "              /--|--\\        (  WQijoaNFEK ) \n";
     std::cout << "             /   |   \\      / `-----------'  \n";
     std::cout << "            /   / \\   \\    /                \n";
     std::cout << "           /           \\                     \n";
@@ -78,7 +78,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /  |  \\        (  Send help! ) \n";
+    std::cout << "              /  |  \\        (  }{1]*(7ehj ) \n";
     std::cout << "             /  / \\  \\      / `-----------' \n";
     std::cout << "            /         \\    /                 \n";
     std::cout << "           /           \\                     \n";
@@ -93,9 +93,9 @@ void display_misses(int misses) {
     std::cout << "             /_....._\\                       \n";
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
-    std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              / / \\ \\        (  Send help! )\n";
-    std::cout << "             /       \\      / `-----------'  \n";
+    std::cout << "         '-.,_________,.-'    ,------------------.   \n";
+    std::cout << "              / / \\ \\        (*incomprihensible*)\n";
+    std::cout << "             /       \\      / `-----------------'  \n";
     std::cout << "            /         \\    /                 \n";
     std::cout << "           /           \\                     \n";
     std::cout << "          /             \\                    \n";
@@ -110,7 +110,7 @@ void display_misses(int misses) {
     std::cout << "         .-\"`         `\"-.                  \n";
     std::cout << "        (  ooo  ooo  ooo  )                   \n";
     std::cout << "         '-.,_________,.-'    ,-----------.   \n";
-    std::cout << "              /     \\        (  Send help! ) \n";
+    std::cout << "              /     \\        (  *gurgling* ) \n";
     std::cout << "             /       \\      / `-----------'  \n";
     std::cout << "            /         \\    /                 \n";
     std::cout << "           /           \\                     \n";
